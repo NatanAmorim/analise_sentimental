@@ -9,12 +9,20 @@
 
 ## Sobre
 
-Esse é um repositório para compartilhar um script python de análise sentimental.
+Esse é um repositório para compartilhar um trabalho em python de análise sentimental.
 
-* Esse script faz: Web Scraping, Análise sentimental, plotagem de gráficos.
-* Filtragem -> 'Stop Words' https://en.wikipedia.org/wiki/Stop_words
-* Modelo de armazenamento de dados -> 'Bag of Words'
 * Testado em Python 3.7.6
+
+* Objetivos: 
+  * Web Scraping
+  * Análise sentimental
+  * plotagem de gráficos.
+
+* Não foi criado para uso profissional, para isso precisa de melhorias, por exemplo:
+  * Alguma coisa como "map reduce" para processar big data.
+  * melhor classificação de dados como verbos, adjetivos, substantivos...
+    * Se tiver interesse fazer uma melhor classificação de uma olhada em [openWordnet-PT](https://github.com/own-pt/openWordnet-PT)
+  * melhor otimização dos scripts para processar mais rápidamente.
 
 ## Requisitos
 
