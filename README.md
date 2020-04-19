@@ -36,12 +36,12 @@ Para facilitar a resposta a problemas por favor siga essas orientações quando 
 
 ## Referências
     
-* [Processamento de Linguagem Natural - Introdução](#http://professor.ufabc.edu.br/~jesus.mena/courses/pln-2q-2019/PLN-aula01.pdf)
-* [Processamento de Linguagem Natural - Expressões regulares](#http://professor.ufabc.edu.br/~jesus.mena/courses/pln-2q-2019/PLN-aula02.pdf)
-* [Processamento de Linguagem Natural -  Normalização de texto](#http://professor.ufabc.edu.br/~jesus.mena/courses/pln-2q-2019/PLN-aula03.pdf)
-* [Natural Language Processing in Python](#https://www.youtube.com/watch?v=xvqsFTUsOmc&t=3685s)
+* [Processamento de Linguagem Natural - Introdução](http://professor.ufabc.edu.br/~jesus.mena/courses/pln-2q-2019/PLN-aula01.pdf)
+* [Processamento de Linguagem Natural - Expressões regulares](http://professor.ufabc.edu.br/~jesus.mena/courses/pln-2q-2019/PLN-aula02.pdf)
+* [Processamento de Linguagem Natural -  Normalização de texto](http://professor.ufabc.edu.br/~jesus.mena/courses/pln-2q-2019/PLN-aula03.pdf)
+* [Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc&t=3685s)
 * [NLP in python tutorial](https://github.com/adashofdata/nlp-in-python-tutorial)
-* [classificação de textos em python](https://www.linkedin.com/pulse/classifica%C3%A7%C3%A3o-de-textos-em-python-luiz-felipe-araujo-nunes/)
+* [Classificação de textos em python](https://www.linkedin.com/pulse/classifica%C3%A7%C3%A3o-de-textos-em-python-luiz-felipe-araujo-nunes/)
 
 ## Criadores
 
