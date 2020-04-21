@@ -51,6 +51,7 @@ Para facilitar a resposta a problemas por favor siga essas orientações quando 
 - [NLP in python tutorial](https://github.com/adashofdata/nlp-in-python-tutorial)
 - [Classificação de textos em python](https://www.linkedin.com/pulse/classifica%C3%A7%C3%A3o-de-textos-em-python-luiz-felipe-araujo-nunes/)
 - [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
+- [NLP Sentiment Analysis on IMDB Review](https://www.kaggle.com/crissilvaeng/nlp-sentiment-analysis-on-imdb-review/data)
 
 ## Criadores
 
