@@ -11,11 +11,12 @@
 
 Esse é um repositório para compartilhar um trabalho em python de análise sentimental.
 
-* Testado em Python 3.7.6
+* Testado em Python 3.8.2
 
 * Objetivos: 
   * Web Scraping
-  * Análise sentimental
+  * Análise sentimental 
+    * Classificação de texto usando Naive Bayes (Algoritimo de aprendizado de máquina supervisionado.)
   * plotagem de gráficos.
 
 * Não foi criado para uso profissional, para isso precisa de melhorias, por exemplo:
