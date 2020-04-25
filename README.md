@@ -53,6 +53,9 @@ Para facilitar a resposta a problemas por favor siga essas orientações quando 
 - [Classificação de textos em python](https://www.linkedin.com/pulse/classifica%C3%A7%C3%A3o-de-textos-em-python-luiz-felipe-araujo-nunes/)
 - [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
 - [NLP Sentiment Analysis on IMDB Review](https://www.kaggle.com/crissilvaeng/nlp-sentiment-analysis-on-imdb-review/data)
+- [Machine Learning Tutorial Python - 14: Naive Bayes Part 1](https://www.youtube.com/watch?v=PPeaRc-r1OI)
+- [Machine Learning Tutorial Python - 15: Naive Bayes Part 2](https://www.youtube.com/watch?v=nHIUYwN-5rM)
+
 
 ## Criadores
 
