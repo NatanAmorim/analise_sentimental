@@ -27,9 +27,9 @@ Esse é um repositório para compartilhar um trabalho em python de análise sent
 
 ## Requisitos
 
-* Python 3.5+
+* Python 3.5+ / Anaconda 3 (opcional)
 * Jupyter Notebook
-* Anaconda 3 (opcional)
+* Baixar dados para treinamento da AI, [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
 
 ## Pull Requests
 
