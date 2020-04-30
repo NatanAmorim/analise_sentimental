@@ -11,12 +11,9 @@ import sklearn # Ferramentas de aprendizado de máquina
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn import naive_bayes
-import seaborn as sns
-import matplotlib.pyplot as plt # Plotagem de gráficosX_train_count
 
 # https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
-arquivo = ('C:\\Users\\natan\\Desenvolvimento\\GitHub\\ia-analise_sentimental\\GUI'
-           + '\\dados_para_treinamento.csv')
+arquivo = ('train50.csv')
 
 df_tweets = pd.read_csv(arquivo, sep=";", usecols=['tweet_text','sentiment'],
                         index_col=None, header=0, dtype={"sentiment":"int16"})
@@ -113,7 +110,6 @@ class MainWindow(QMainWindow):
             sentimento = "Emoção Negativa" + " " + "\U0001f641"
         else:
             sentimento = "None" + " " + "\U0001f610"
-        # IA
         msg = QMessageBox()
         msg.setWindowTitle("Emoção detectada")
         msg.setText('"' + frases[0] + '"')
