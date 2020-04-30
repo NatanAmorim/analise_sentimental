@@ -22,6 +22,8 @@ Esse é um repositório para compartilhar um trabalho em python de análise sent
 * Não foi criado para uso profissional, para isso precisa de melhorias, por exemplo:
   * Alguma coisa como "map reduce" para processar big data.
   * melhor classificação de dados como verbos, adjetivos, substantivos...
+    * Polissemia (muitos significados) é um problema
+    * Sinônimos também podem dificultar a analise
     * Se tiver interesse fazer uma melhor classificação de uma olhada em [openWordnet-PT](https://github.com/own-pt/openWordnet-PT)
   * melhor otimização dos scripts para processar mais rápidamente.
 
@@ -29,7 +31,7 @@ Esse é um repositório para compartilhar um trabalho em python de análise sent
 
 * Python 3.5+ / Anaconda 3 (opcional)
 * Jupyter Notebook
-* Baixar dados para treinamento da AI, [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
+* Baixar dados para treinamento da AI [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
 
 ## Pull Requests
 
