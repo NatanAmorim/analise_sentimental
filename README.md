@@ -55,6 +55,7 @@ Para facilitar a resposta a problemas por favor siga essas orientações quando 
 - [NLP Sentiment Analysis on IMDB Review](https://www.kaggle.com/crissilvaeng/nlp-sentiment-analysis-on-imdb-review/data)
 - [Machine Learning Tutorial Python - 14: Naive Bayes Part 1](https://www.youtube.com/watch?v=PPeaRc-r1OI)
 - [Machine Learning Tutorial Python - 15: Naive Bayes Part 2](https://www.youtube.com/watch?v=nHIUYwN-5rM)
+- [Convert a collection of text documents to a matrix of token counts](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)
 
 
 ## Criadores
