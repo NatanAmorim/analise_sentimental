@@ -2,6 +2,7 @@
 
 - [Sobre](#sobre)
 - [Requisitos](#requisitos)
+- [Bibliotecas](#bibliotecas)
 - [Pull Requests](#pull-requests)
 - [Corrigindo Bugs](#corrigindo-bugs)
 - [Criadores](#criadores)
@@ -9,7 +10,7 @@
 
 ## Sobre
 
-Esse é um repositório para compartilhar um trabalho em python de análise sentimental.
+Esse é um repositório para compartilhar um trabalho em Python 3 de análise sentimental.
 
 * Testado em Python 3.8.2
 
@@ -31,7 +32,27 @@ Esse é um repositório para compartilhar um trabalho em python de análise sent
 
 * Python 3.5+ / Anaconda 3 (opcional)
 * Jupyter Notebook
-* Baixar dados para treinamento da AI [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
+* Baixar dados para treinamento em [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
+
+## Bibliotecas 
+
+- Essas são as bibliotecas de Python 3 usadas neste trabalho.
+- Comando para atualizar o pip  `pip3 install --upgrade pip`
+
+| Biblioteca | Comando para Instalar |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html) | `pip3 install jupyter` |
+| [Numpy](https://pypi.org/project/numpy/) | `pip3 install numpy` |
+| [pandas](https://pypi.org/project/pandas/) | `pip3 install pandas` |
+| [requests](https://pypi.org/project/requests/) | `pip3 install requests` |
+| [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) | `pip3 install beautifulsoup4` |
+| [scipy](https://pypi.org/project/scipy/) | `pip install scipy` |
+| [Unidecode](https://pypi.org/project/Unidecode/) | `pip install Unidecode` |
+| [scikit-learn](https://pypi.org/project/scikit-learn/) | `pip install scikit-learn` |
+| [nltk](https://pypi.org/project/nltk/) | `pip install nltk` |
+| [Matplotlib](https://pypi.org/project/matplotlib/) | `pip3 install matplotlib` |
+| [Seaborn](https://pypi.org/project/seaborn/) | `pip3 install seaborn` |
+| [PyQt5](https://pypi.org/project/PyQt5/) | `pip install PyQt5` |
 
 ## Pull Requests
 
