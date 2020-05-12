@@ -32,7 +32,7 @@ Esse é um repositório para compartilhar um trabalho em Python 3 de análise se
 
 * Python 3.5+ / Anaconda 3 (opcional)
 * Jupyter Notebook
-* Baixar dados para treinamento em [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis)
+* Baixe os dados para o treinamento da IA em [Portuguese Tweets for Sentiment Analysis](https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis), descompacte os arquivos, copie um dos arquivos [ Train50, Train100, Train200, Train300, Train400, Train500 ] de dentro da pasta TrainingDatasets/ renomeie esse arquivo para 'dados_para_treinamento.csv' e cole nas pastas Scripts/ e GUI/
 
 ## Bibliotecas 
 

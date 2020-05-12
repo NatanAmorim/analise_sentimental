@@ -13,7 +13,7 @@ from sklearn.model_selection import train_test_split
 from sklearn import naive_bayes
 
 # https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
-arquivo = ('train50.csv')
+arquivo = ('dados_para_treinamento.csv')
 
 df_tweets = pd.read_csv(arquivo, sep=";", usecols=['tweet_text','sentiment'],
                         index_col=None, header=0, dtype={"sentiment":"int16"})
